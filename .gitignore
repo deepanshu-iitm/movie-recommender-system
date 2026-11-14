@@ -2,5 +2,10 @@
 /data
 /notebooks/data
 /models
-config.bat
 node_modules
+
+.env
+.env.*
+!.env.example
+.vscode/
+node_modules/
